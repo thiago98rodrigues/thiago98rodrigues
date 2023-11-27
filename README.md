@@ -5,9 +5,10 @@
 - 💞️ Gostaria de colaborar em projetos nos quais poderia aprender muitos conceitos importantes para o desenvolvimento
 
 <div>
-  <a href="thiago98rodrigues.github.io/portfolio/">
+  <a href="https://thiago98rodrigues.github.io/portfolio/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiago98rodrigues&show_icons=true&include_all_commits=true&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago98rodrigues&lang-count=16&layout=compact&theme=tokyonight" />
+  </a>
 </div>
 
 <!---
